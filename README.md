@@ -250,7 +250,7 @@ sudo tail -f /var/ossec/logs/ossec.log
 ---
 
 ## 👨‍💻 Author  
-Mario Tagaras | Cybersecurity Engineer | Florida State University Alum  
+Mario Tagaras | Florida State University Alum  
 
 
 
