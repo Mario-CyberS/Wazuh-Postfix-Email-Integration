@@ -247,7 +247,10 @@ Monitor Wazuh logs for any issues:
 ```bash
 sudo tail -f /var/ossec/logs/ossec.log
 ```
+---
 
+## 👨‍💻 Author  
+Mario Tagaras | Cybersecurity Engineer | Florida State University Alum  
 
 
 
