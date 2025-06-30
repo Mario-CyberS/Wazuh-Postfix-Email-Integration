@@ -58,6 +58,8 @@ smtp_sasl_security_options = noanonymous
 smtp_tls_CAfile = /etc/pki/tls/certs/ca-bundle.crt
 smtp_use_tls = yes
 compatibility_level = 2
+inet_interfaces = loopback-only
+default_destination_rate_delay = 60s
 ```
 ### 3. Configure SMTP Authentication for your email
 ```bash
