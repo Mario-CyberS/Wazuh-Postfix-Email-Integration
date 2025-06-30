@@ -49,7 +49,7 @@ Open the Postfix configuration file:
 ```bash
 sudo nano /etc/postfix/main.cf
 ```
-Modify or add the following lines, they are scattered and might be on/in there already:
+Modify or add the following lines, they are scattered and might be in there already:
 ```bash
 relayhost = [smtp.gmail.com]:587
 smtp_sasl_auth_enable = yes
